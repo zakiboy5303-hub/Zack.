@@ -1,53 +1,61 @@
-# Zack.
-
 <!DOCTYPE html>
-
-<html>
+<html lang="en">
 <head>
-  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-  <title>exercise</title>
-  <link rel="stylesheet" href="exercise.css">
+    <meta charset="UTF-8">
+    <title>Path of Light Yoga Studio</title>
 </head>
-<body>
-  <h1>MY NAME IS Zakariye</h1>
-  <ol>Days of the week</ul>
-  <li>sturday</lis>
-  <li>sunday</lis>
-  <li>monday</lis>
-  <li>tuesday</lis>
-  <li>wednesday</lis>
-  <li>thursday</lis>
-  <li>friday</lis>
-  <h2>season</h2>
-  <ol type="A">
-    <li>Spring</li>
-    <li>Summer</li>
-    <li>Fall</li>
-    <li>Winter</li>
-</ol>
-  <h2>sheikh mustafe</h2>
-  <blockquote>Sheikh mustafa
+<body style="color:blue; background-color: yellow;">
 
-B      ,ADIDA NIN BAA KULA DEY DEYA,Daalna kaa badane. Oo aan donan inad heshaa daa-in abidkaye. Dadkuna mooday duul wada dhashay, Oo Wax u dooh soonene</blockquote>
-<p>
-  A diagram of the organization of a website is called a <b>site map</b> or
-  <b>storyboard</b>. Creating the <b>site map</b> is one of the initial steps
-  in developing a website.
-</p>
-  <a href="https://www.mogadisho.edu.so">Visit My universty Website</a>
-  <header>
-    <h1>hubalada waaberi</h1>
-    </header>
-  <p>My favorite musical group</p>
-  <main>
-    <h2>Group member </h2>
+<header>
+    <h1 style="color:blue; background-color: green">Path of Light Yoga Studio</h1>
+</header>
+
+<nav>
+    <b>
+        <a href="index.html">Home</a> &nbsp;
+        <a href="classes.html">Classes</a> &nbsp;
+        <a href="schedule.html">Schedule</a> &nbsp;
+        <a href="contact.html">Contact</a>
+    </b>
+</nav>
+  <hr>
+<main style="color:orange; background-color: pink">
+    <h2>Find Your Inner Light</h2>
+
+    <p>
+        Path of Light Yoga Studio provides all levels of yoga practice in a tranquil,
+        peaceful environment. Whether you are new to yoga or an experienced practitioner,
+        our dedicated instructors can develop a practice to meet your needs.
+        Let your inner light shine at the Path of Light Yoga Studio. </b>
+    </p>
+
     <ul>
-      <li>magool</li>
-      <li>hassan adan</li>
-      <li>maryam mursal</li>
+        <li>Hatha, Vinyasa, and Restorative Yoga classes</li>
+        <li>Drop-ins welcome</li>
+        <li>Mats, blocks, and blankets provided</li>
+        <li>Relax in our Serenity Lounge before or after your class</li>
     </ul>
-     
-     <h2>offical website</h2>
-     <p>Visit their official web</p>
-     <hr>
-     <a href=".https://youtu.be/1SYnOhU8Npk?si=bky71bo36ixhGwGt">this is are the youtpe link </a>
+</main>
+  <hr>
+<footer  style="color:white; background-color: black">
+    <p>
+        <strong>Address:</strong><br>
+        612 Serenity Way<br>
+        El Dorado, AZ 86336
+    </p>
+
+    <p>
+        <strong>Phone:</strong><br>
+        888-555-5555
+    </p>
+
+    <p>
+        <strong>Email:</strong><br>
+        yoga@pathoflight.com
+    </p>
+  <P>
+    Copyright &copy; 2020 Path of Light Yoga Studio
+  </P>
+</footer>
+</body>
+</html>(
